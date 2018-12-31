@@ -1,7 +1,8 @@
 const Discord = require('discord.js');
 const client = new Discord.Client();
 
-client.on('ready', () => {
+client.on('ready', (NTI5MzE1ODYxNjYwNjk2NTg3.DwvDhg.cXH4Sbyf01IPOwMEqWEWplvCgFc
+) => {
   console.log(`Logged in as ${529315861660696587.System Bot.4051}!`);
 });
 
